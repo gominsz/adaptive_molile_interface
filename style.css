@@ -1,0 +1,12 @@
+body {
+  /*
+  background: url(./assets/bg-mobile.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  */
+
+
+  /*backgraund: color image*/
+  background: url(./assets/bg-mobile.jpg) no-repeat top center/cover;
+}
